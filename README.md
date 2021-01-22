@@ -1,5 +1,5 @@
 # ATP2-TPP05-C
- Desenvolvimento de um Sistema Simples de Manipulação Polinomial
+ Desenvolvimento de um sistema simples de manipulação polinomial
  
 * Linguagem C.
 * Sinta-se livre para com comentários e sugestões.
